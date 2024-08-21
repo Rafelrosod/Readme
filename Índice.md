@@ -5,5 +5,9 @@
 - [JavaScript-TypeScript](https://github.com/Rafelrosod/JavaScript-TypeScrpit)
 
 ## Projetos
-- [Projeto 1](https://github.com/usuario/project-1)
-- [Projeto 2](https://github.com/usuario/project-2)
+### Front-end
+- [Jogo-de-Adivinha](https://github.com/Rafelrosod/Jogo-de-Adivinha)
+- [Contador](https://github.com/Rafelrosod/Contador)
+- [JJk-adivinha](https://github.com/Rafelrosod/JJk-adivinha)
+- [Formulario](https://github.com/Rafelrosod/Formulario)
+- [LAVA](https://github.com/Rafelrosod/Lava?tab=readme-ov-file#lava)
