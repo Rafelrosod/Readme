@@ -1,7 +1,8 @@
 # Índice de Repositórios
 
-## Documentação
+## Documentações
 - [Html-Css](https://github.com/Rafelrosod/Html-CSS)
+- [JavaScript-TypeScript](https://github.com/Rafelrosod/JavaScript-TypeScrpit)
 
 ## Projetos
 - [Projeto 1](https://github.com/usuario/project-1)
