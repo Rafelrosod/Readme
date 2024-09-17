@@ -1,11 +1,24 @@
 # Índice de Repositórios
 
-## Documentações
+### Documentações
+
+**`Front-End:`**
+
 - [Html-Css](https://github.com/Rafelrosod/Html-CSS)
 - [JavaScript-TypeScript](https://github.com/Rafelrosod/JavaScript-TypeScrpit)
 
-## Projetos
-### Front-end
+**`Back-End:`**
+
+- [Java](https://github.com/Rafelrosod/Java)
+
+**`Cloud:`**
+
+- [Azure](https://github.com/Rafelrosod/Azure)
+
+### Projetos
+
+**`Front-end`**
+
 - [Jogo-de-Adivinha](https://github.com/Rafelrosod/Jogo-de-Adivinha)
 - [Contador](https://github.com/Rafelrosod/Contador)
 - [JJk-adivinha](https://github.com/Rafelrosod/JJk-adivinha)
